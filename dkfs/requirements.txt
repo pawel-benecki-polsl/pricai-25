@@ -1,0 +1,16 @@
+dominate==2.9.1
+ipython==7.34.0
+matplotlib==3.3.4
+numpy==1.17.4
+Pillow==9.2.0
+Pillow==11.3.0
+rawpy==0.25.1
+scipy==1.7.3
+setuptools==47.1.0
+sewar==0.4.6
+skimage==0.0
+torch==1.8.0
+torchsummary==1.5.1
+torchvision==0.9.0
+tqdm==4.64.1
+visdom==0.2.4
