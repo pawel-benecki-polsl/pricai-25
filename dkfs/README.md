@@ -1,12 +1,7 @@
-The code accompanying:
+Code accompanying:
 
 
-**Metric Learning for Multi-Image Super-Resolution**
-Pawel Benecki, Daniel Kostrzewa, and Michal Kawulok
-PRICAI 2025
-
-
-Repository bases on the original LPIPS code from:
+Original code from:
 
 ## Perceptual Similarity Metric and Dataset [[Project Page]](http://richzhang.github.io/PerceptualSimilarity/)
 
